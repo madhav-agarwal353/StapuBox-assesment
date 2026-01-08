@@ -32,8 +32,4 @@ I have tried my best to keep the implementation **clean, readable, and close to 
 - Attempted **Android SMS auto-read** using SMS Retriever API
 - Graceful fallback to manual OTP entry if auto-read fails
 
----
 
-## 🔌 API Details
-
-**Base URL**
